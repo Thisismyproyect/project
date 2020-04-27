@@ -1,0 +1,287 @@
+
+html {
+  background-color: #faf8f0;
+}
+
+#login{
+  background-color: #f78216;
+  height: 100%;
+}
+
+.login *{
+  font-size: 20px;
+}
+
+.panel-body1{
+  background-color: white;
+  border-radius: 10px;
+}
+
+.btn-orange{
+  background-color: #f47b00;
+  border-color: #f57d05;
+  font-size: 22px;
+  border-radius: 4px;
+}
+
+.text-inicio{
+  font-size: 20px;
+  text-align: center;
+}
+
+.inicio{
+  background-color: white;
+}
+
+.navbar .iconss {
+  font-size: 30px;
+  color: white !important;
+  color: #f78216 !important;
+  color: #f47b00 !important;
+  color: #fb9904 !important;
+  color: #ff5620 !important;
+  color: #f8cbad !important;
+}
+
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    overflow: auto;
+    overflow-y: hidden;
+}
+
+.scrolling-wrapper> .cards{
+    display: inline-block;
+    height: 100px;
+    height: 100px;
+}
+
+.navbar {
+  border-radius: 0px !important;
+  background: #f78216 !important;
+  border-bottom: 10px;
+}
+
+.navbar .res-nom *{
+  color: white !important;
+  text-align: left;
+  font-size: 24px;
+}
+
+.navbar .icon {
+  font-size: 27px;
+  color: white !important;
+  margin-top: 2px;
+}
+
+.navbar-brand{
+  display: block;
+  left: 50%;
+  top: -10%;
+  position: absolute;
+  text-align: center;
+}
+
+.navbar .icono-Ralph img{
+  width: 40px;
+}
+
+.navbar-bottom {
+  overflow: hidden;
+  background-color: #fb9904;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.navbar-bottom a {
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #fffcf7 !important;
+}
+
+.fixed-botom{
+  padding-top: 100px;
+}
+
+.info{
+  padding-top: 60px;
+}
+
+.icon {
+  font-size: 28px;
+  color: #f47b00  !important;
+}
+
+.text{
+  font-size: 20px;
+}
+
+.subtitle{
+  font-size: 32px;
+  margin-left: 20px;
+  color: black;
+}
+
+ .avatar{
+  width: 50px;
+  height: 50px;
+  /* border-radius: 50px; */
+  overflow: hidden;
+  margin-top: 2px;
+  margin-right: 3px;
+  margin-left: 10px;
+}
+
+.avatar img{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.badge-primary{
+  background-color: #ff5620  !important;
+}
+
+/* .card img{
+  border-radius: 10px;
+} */
+
+
+.card-tiempo{
+  background-color: white;
+  text-align: right;
+  margin-top: -21px;
+  margin-left: 142px;
+  padding-left: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-inline-end: 80px;
+  font-weight: bold;
+  opacity: 90%;
+  /* color: #ff5620; */
+  color: black;
+}
+
+.card-nombre{
+  color: black;
+  background-color: white;
+  margin-top: 146px;
+  font-size: 20px;
+  font-weight: 300;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: -20px;
+  margin-right: -1px;
+  padding-top: 5px;
+}
+
+.card-precio{
+  color: green;
+  font-weight: bold;
+  background-color: white;
+  margin-top: 146px;
+  margin-right: -21px;
+  padding-top: 5px;
+}
+
+#fondo{
+  background-color: #faf8f0;
+}
+
+.custom-file-upload {
+  border: 1px solid #ccc;
+  border-radius: 3%;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #f47b00;
+  color: white;
+  font-size: 18px;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border: 1px solid gray;
+  border-radius: 5%;
+  text-align: center;
+  margin-top: -12px;
+  margin-bottom: 12px;
+}
+
+.icon-img{
+  font-size: 60px;
+  margin-top: 65px;
+}
+
+.icon-edit{
+  font-size: 25px;
+  color: gray;
+}
+
+.img-edit img{
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.btn-modal-cancel{
+  background-color: #f8cbad !important;
+  border-color: yellow !important;
+} 
+
+.btn-modal-cancel{
+  background-color: #f8cbad !important;
+  border-color: #ffc9a5 !important;
+}
+
+.btn-modal-success{
+  background-color: #ff5620 !important;
+  border-color: #ff4409 !important;
+}
+
+.btn-modal-option{
+  background-color: white !important;
+  border-color: #fba82ae0 !important;
+  height: 45px;
+}
+
+
+.modal{
+  text-align: center;
+  width: 90% !important;
+  margin-left: 20px;
+}
+
+.modal .btn{
+  font-size: 20px !important;
+}
+
+.modal-footer{
+  display: inline-block !important;
+  border-top: 0px !important;
+}
+
+.modal-header{
+  display: inline-block !important;
+  border-bottom: 0px !important;
+  padding-top: 22px !important;
+}
+
+.modal-header *{
+  font-size: 22px !important;
+}
